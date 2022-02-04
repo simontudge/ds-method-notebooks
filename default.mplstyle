@@ -1,0 +1,23 @@
+figure.figsize   : 16., 9.
+
+axes.titlesize : 24
+axes.labelsize : 22
+xtick.labelsize : 18
+ytick.labelsize : 18
+axes.labelpad  : 12
+
+legend.fontsize      : 20
+
+lines.markersize  : 8
+
+font.family : sans-serif
+
+axes.grid           : True
+
+grid.color       :   grey   # grid color
+grid.linestyle   :   -      # dotted
+grid.linewidth   :   0.5     # in points
+grid.alpha       :   0.7     # transparency, between 0.0 and 1.0
+
+axes.spines.top    : False
+axes.spines.right  : False
